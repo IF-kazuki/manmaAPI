@@ -1,4 +1,4 @@
 fn main() {
-  // 世界よ、こんにちは
+  // 世界よ、こんにちはですわ
   println!("Hello, world!");
 }
